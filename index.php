@@ -1,3 +1,32 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-e<quiv="Content-Type" content="text/html; charset=utf-8">
+<title>BMI CALCULATOR</title>
+<style type="text/css">
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	color:rgb(36, 60, 63);
+	font-size: 12px;
+}
+.style1 {color:rgb(158, 142, 142)}
+.style2 {
+	color:rgb(183, 214, 45);
+	font-weight: bold;
+}
+.style3 {color:rgb(8, 32, 8)}
+.style7 {color:rgb(3, 3, 255); font-style: italic; }
+body {  
+	background-color:rgb(174, 167, 167);
+}
+.style8 {color:rgb(15, 22, 224)}
+</style></head>
+<body>
+<p>&nbsp;</p>
+<table width="40%" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#1230">
+  <tbody><tr>
+    <td><h1 align="center">&nbsp;</h1>
+      <table width="82%" border="0" align="center" cellpadding="5" cellspacing="0">
+        <tbody><tr>      
+        </tr>
 <?php
 $bmi = '';
 $message = '';
