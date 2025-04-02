@@ -7,15 +7,14 @@ body,td,th {
 	color:rgb(36, 60, 63);
 	font-size: 12px;
 }
-.container {
-    max width: 500px;
-    margin: auto;
-    padding: 15;
-    background-color: #f8f8ff;
-    border-raidus: 5px;
-    box-shadow: 0 5x 15px rgba(0, 0, 0, 0.09)
-}
-
+ .container {
+     max width: 500px;
+     margin: auto;
+     padding: 15;
+     background-color: #f8f8ff;
+     border-raidus: 5px;
+     box-shadow: 0 5x 15px rgba(0, 0, 0, 0.09)
+ }
 .style1 {color:rgb(158, 142, 142)}
 .style2 {
 	color:rgb(183, 214, 45);
@@ -24,7 +23,7 @@ body,td,th {
 .style3 {color:rgb(8, 32, 8)}
 .style7 {color:rgb(3, 3, 255); font-style: italic; }
 body {  
-    background:linear-gradient(90deg, Red, Orange, Yellow, Green, Blue, Indigo,violet);
+	background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);
 }
 .style8 {color:rgb(15, 22, 224)}
 </style></head>
@@ -33,7 +32,7 @@ body {
 <table width="40%" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#1230">
   <tbody><tr>
     <td><h1 align="center">&nbsp;</h1>
-      <table width="82%" border="0" align="center" cellpadding="5" cellspacing="0">
+      <table width="75%" border="0" align="center" cellpadding="5" cellspacing="0">
         <tbody><tr>      
         </tr>
 <?php
